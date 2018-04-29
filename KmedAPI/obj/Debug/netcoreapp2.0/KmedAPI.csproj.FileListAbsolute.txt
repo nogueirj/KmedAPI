@@ -1,0 +1,11 @@
+/Users/julionogueira/Projects/KmedAPI/KmedAPI/bin/Debug/netcoreapp2.0/KmedAPI.deps.json
+/Users/julionogueira/Projects/KmedAPI/KmedAPI/bin/Debug/netcoreapp2.0/KmedAPI.runtimeconfig.json
+/Users/julionogueira/Projects/KmedAPI/KmedAPI/bin/Debug/netcoreapp2.0/KmedAPI.runtimeconfig.dev.json
+/Users/julionogueira/Projects/KmedAPI/KmedAPI/bin/Debug/netcoreapp2.0/KmedAPI.dll
+/Users/julionogueira/Projects/KmedAPI/KmedAPI/bin/Debug/netcoreapp2.0/KmedAPI.pdb
+/Users/julionogueira/Projects/KmedAPI/KmedAPI/obj/Debug/netcoreapp2.0/KmedAPI.csprojResolveAssemblyReference.cache
+/Users/julionogueira/Projects/KmedAPI/KmedAPI/obj/Debug/netcoreapp2.0/KmedAPI.csproj.CoreCompileInputs.cache
+/Users/julionogueira/Projects/KmedAPI/KmedAPI/obj/Debug/netcoreapp2.0/KmedAPI.AssemblyInfoInputs.cache
+/Users/julionogueira/Projects/KmedAPI/KmedAPI/obj/Debug/netcoreapp2.0/KmedAPI.AssemblyInfo.cs
+/Users/julionogueira/Projects/KmedAPI/KmedAPI/obj/Debug/netcoreapp2.0/KmedAPI.dll
+/Users/julionogueira/Projects/KmedAPI/KmedAPI/obj/Debug/netcoreapp2.0/KmedAPI.pdb
